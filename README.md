@@ -22,5 +22,5 @@ The second sub-section of hte second section just has text
 - In top, set background to image of top and create text(H2) NB:align right
 - In bottom, create 2 sections NB: justify-content space between
 - In bottom-top, contains 2 sections course-details and user-pic
-- In course-details, there are 2 paragraphs with 2 spans for numbers. Second paragraph has one span for user-name
+- In course-details, there are 2 paragraphs with 2 spans for numbers. Second paragraph has one span for instructor-name
 - The last section of the bottom-top has just text-level
