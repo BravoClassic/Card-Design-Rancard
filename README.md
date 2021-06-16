@@ -5,7 +5,8 @@ Creating a card. Looking beautiful
 
 ###### Time taken: (start 13:38, stop:13:52) Break: 30mins
 ###### Time back: 14:23
-###### Back at: 14:37
+###### Back at: (start 14:37, finished 16:31)
+###### Total time take: 2hr 20mins
 This card has 2 main sections. 
 
 The first section(top) has a background image and text. 
